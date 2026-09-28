@@ -1,0 +1,207 @@
+{
+  "domain": "huckleberryyum",
+  "niche": "Wild Mountain Huckleberry Preserves & Botanical Gastronomy",
+  "design_concept": "Architectural Swiss Grid & Full-Width Panorama",
+  "archetype_id": "swiss_panorama",
+  "pages": [
+    "index.php",
+    "about.html",
+    "services.html",
+    "contact.html",
+    "faq.html",
+    "privacy-policy.html",
+    "terms-and-conditions.html",
+    "disclaimer.html",
+    "cookie-policy.html"
+  ],
+  "images": [
+    {
+      "index": 1,
+      "filename": "huckleberryyum_asset_1.jpg",
+      "size_kb": 96.48,
+      "md5": "6a0e65e9c0ad57ce5e9436a9ab1cbf36",
+      "description": "Assorted fresh fruit tarts piled high with wild blueberries and kiwi",
+      "page": "index.php",
+      "section": "Hero Masthead"
+    },
+    {
+      "index": 2,
+      "filename": "huckleberryyum_asset_10.jpg",
+      "size_kb": 92.27,
+      "md5": "c5522c0e0a2516efe8a05cde41ffae8c",
+      "description": "Artisanal cheesecake with wild mountain huckleberry coulis topping",
+      "page": "index.php",
+      "section": "Signature Showcase I"
+    },
+    {
+      "index": 3,
+      "filename": "huckleberryyum_asset_11.jpg",
+      "size_kb": 212.45,
+      "md5": "08c9c08766548350efeb4f822e8c0e2c",
+      "description": "Golden-baked Saskatoon wild berry pie fresh from the oven",
+      "page": "index.php",
+      "section": "Signature Showcase II"
+    },
+    {
+      "index": 4,
+      "filename": "huckleberryyum_asset_12.jpg",
+      "size_kb": 222.83,
+      "md5": "1f6707f962cf090913f933ecea1e182e",
+      "description": "Harvest bowl of wild forest huckleberries and berries",
+      "page": "index.php",
+      "section": "Signature Showcase III"
+    },
+    {
+      "index": 5,
+      "filename": "huckleberryyum_asset_13.jpg",
+      "size_kb": 174.0,
+      "md5": "59980d5d2fce7056ba39c6d126ea2323",
+      "description": "Handcrafted artisanal mixed berry pie with lattice pastry crust",
+      "page": "index.php",
+      "section": "Curated Collection I"
+    },
+    {
+      "index": 6,
+      "filename": "huckleberryyum_asset_14.jpg",
+      "size_kb": 72.66,
+      "md5": "8df6bfc60ee17a4e827c80a560bf99a4",
+      "description": "Heritage double-crust wild berry pie dusted with raw sugar",
+      "page": "index.php",
+      "section": "Curated Collection II"
+    },
+    {
+      "index": 7,
+      "filename": "huckleberryyum_asset_15.jpg",
+      "size_kb": 171.82,
+      "md5": "47fc544dc3d0494f1b8351420ed43334",
+      "description": "Gourmet mountain huckleberry dessert pie plated with berries",
+      "page": "index.php",
+      "section": "Heritage Story I"
+    },
+    {
+      "index": 8,
+      "filename": "huckleberryyum_asset_16.jpg",
+      "size_kb": 196.64,
+      "md5": "a5b236c1a9eb097010f1d44f8e337e1a",
+      "description": "Artisan berry pie slice with rich simmering berry compote",
+      "page": "index.php",
+      "section": "Heritage Story II"
+    },
+    {
+      "index": 9,
+      "filename": "huckleberryyum_asset_17.jpg",
+      "size_kb": 199.84,
+      "md5": "f62d14139301bb5972f549006d81ab44",
+      "description": "Traditional celebration berry pie with fluted butter pastry",
+      "page": "about.html",
+      "section": "Heritage Hero"
+    },
+    {
+      "index": 10,
+      "filename": "huckleberryyum_asset_18.jpg",
+      "size_kb": 219.67,
+      "md5": "0f801063495d03ea8779ef697de0b90c",
+      "description": "Rustic hearth-baked berry pie garnished with fresh blackberries",
+      "page": "about.html",
+      "section": "Principles Pillar I"
+    },
+    {
+      "index": 11,
+      "filename": "huckleberryyum_asset_19.jpg",
+      "size_kb": 191.42,
+      "md5": "af413e7ed8633a7f833c873a0f3994c8",
+      "description": "Golden blueberry and huckleberry pie on artisan stoneware plate",
+      "page": "about.html",
+      "section": "Principles Pillar II"
+    },
+    {
+      "index": 12,
+      "filename": "huckleberryyum_asset_2.jpg",
+      "size_kb": 141.4,
+      "md5": "bcdc9c1c6c3de5e86a7182da60f8b2f2",
+      "description": "Delicious wild berry pie with bubbling fruit preserves",
+      "page": "about.html",
+      "section": "Principles Pillar III"
+    },
+    {
+      "index": 13,
+      "filename": "huckleberryyum_asset_20.jpg",
+      "size_kb": 239.96,
+      "md5": "64e6ea5c42d5a4c30ed5735b0b5e8337",
+      "description": "Grand Traverse heritage berry pie with caramelized berry reduction",
+      "page": "services.html",
+      "section": "Services Hero"
+    },
+    {
+      "index": 14,
+      "filename": "huckleberryyum_asset_3.jpg",
+      "size_kb": 188.46,
+      "md5": "e78c96868140ae811573d4c7051c1fc8",
+      "description": "Miniature artisanal tartlet garnished with redcurrants and berries",
+      "page": "services.html",
+      "section": "Specialty I"
+    },
+    {
+      "index": 15,
+      "filename": "huckleberryyum_asset_4.jpg",
+      "size_kb": 228.67,
+      "md5": "6fb89dc15c23bf9a7ef874843fb4bf4e",
+      "description": "Rich deep-dish mixed berry and wild huckleberry pie",
+      "page": "services.html",
+      "section": "Specialty II"
+    },
+    {
+      "index": 16,
+      "filename": "huckleberryyum_asset_5.jpg",
+      "size_kb": 169.97,
+      "md5": "dbb55bbeb379248fbd5ac6e4993eedb3",
+      "description": "Fresh Olallieberry and mountain huckleberry pie slice",
+      "page": "services.html",
+      "section": "Specialty III"
+    },
+    {
+      "index": 17,
+      "filename": "huckleberryyum_asset_6.jpg",
+      "size_kb": 156.14,
+      "md5": "8da608cbabb45271d18b351125dd707e",
+      "description": "Orion reserve berry dessert pie with wild berry glazes",
+      "page": "services.html",
+      "section": "Specialty IV"
+    },
+    {
+      "index": 18,
+      "filename": "huckleberryyum_asset_7.jpg",
+      "size_kb": 211.47,
+      "md5": "b32d4b35739a36cb34076f77e51066e7",
+      "description": "Patrick Star berry shortcake pie with whipped vanilla cream",
+      "page": "services.html",
+      "section": "Specialty V"
+    },
+    {
+      "index": 19,
+      "filename": "huckleberryyum_asset_8.jpg",
+      "size_kb": 324.24,
+      "md5": "467c9fd41654d922ef19d3e4fd396195",
+      "description": "Freshly baked wild berry breakfast pastry with berry preserves",
+      "page": "contact.html",
+      "section": "Salon Consultation"
+    },
+    {
+      "index": 20,
+      "filename": "huckleberryyum_asset_9.jpg",
+      "size_kb": 105.63,
+      "md5": "390a1e2c71ec2acc4addb8e01fcdf524",
+      "description": "Artisanal berry dessert slice served with warm berry coulis",
+      "page": "faq.html",
+      "section": "Collector FAQ"
+    }
+  ],
+  "seo": {
+    "google_tag": "G-0LY0HY7L01",
+    "address": "181 Mercer Street, New York, NY 10012, United States",
+    "telephone": "+1-888-777-5845",
+    "sitemap": "https://huckleberryyum.com/sitemap.xml",
+    "robots": "https://huckleberryyum.com/robots.txt"
+  },
+  "validation_status": "PASSED_100_PERCENT"
+}
